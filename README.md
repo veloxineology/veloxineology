@@ -26,8 +26,6 @@
 
 <hr>
 
-<hr>
-
 <h2 align="center">🚀 Projects 🚀</h2>
 <ul>
   <li><strong>🏠 HomeLifeSync</strong> – Smart home automation for eldercare and security</li>
