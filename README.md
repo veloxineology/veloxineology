@@ -26,20 +26,6 @@
 
 <hr>
 
-<h2 align="center">🧠 Skills, Languages & Tools 🧠</h2>
-<p align="center">
-  <code><img title="Kotlin" height="25" src="images/kotlin.svg"></code>
-  <code><img title="Bash" height="25" src="images/bash.svg"></code>
-  <code><img title="JavaScript" height="25" src="images/javascript.svg"></code>
-  <code><img title="HTML5" height="25" src="images/html5.svg"></code>
-  <code><img title="CSS3" height="25" src="images/css.svg"></code>
-  <code><img title="Markdown" height="25" src="images/markdown.svg"></code>
-  <code><img title="Framer Motion" height="25" src="images/framer-motion.svg"></code>
-  <code><img title="MacroDroid" height="25" src="images/android.svg"></code>
-  <code><img title="Magisk" height="25" src="images/magisk.svg"></code>
-  <code><img title="GitHub Pages" height="25" src="images/github.svg"></code>
-</p>
-
 <hr>
 
 <h2 align="center">🚀 Projects 🚀</h2>
