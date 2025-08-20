@@ -45,7 +45,6 @@
 </p>
 
 <hr>
-<hr>
 
 <h4 align="center">
   <a href="https://github.com/veloxineology?tab=repositories">🔍 Explore More Projects</a>
